@@ -1,4 +1,7 @@
-![SQD.](/SQD.png)
+![SQD.](/SQD-L.jpeg#gh-light-mode-only)
+![SQD.](/SQD-D.jpeg#gh-dark-mode-only)
+
+
 
 
 # Code for Performing Semi-Classical Quantum Dynamics
